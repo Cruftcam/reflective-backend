@@ -1,0 +1,27 @@
+{
+	"name": "reflective-backend",
+	"type": "module",
+	"version": "1.0.0",
+	"main": "reflective-backend.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node reflective-backend.js"
+	},
+	"keywords": ["mysql", "rest", "backend", "api", "dynamic", "reflective"],
+	"author": "Stefan Reimann",
+	"license": "CC-BY-NC-4.0",
+	"description": "A dynamic MySQL REST backend (reflective, zero-config)",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.21.2",
+		"mysql2": "^3.13.0"
+	},
+	"repository": {
+	"type": "git",
+	"url": "https://github.com/Stefan/reflective-backend.git"
+	},
+	"bugs": {
+	"url": "https://github.com/Stefan/reflective-backend/issues"
+	},
+	"homepage": "https://github.com/Stefan/reflective-backend#readme"
+}
