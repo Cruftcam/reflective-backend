@@ -20,7 +20,3 @@
 
 
 
-## 📦 Installation
-
-```bash
-npm install reflective-backend
