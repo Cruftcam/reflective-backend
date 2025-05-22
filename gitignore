@@ -1,5 +1,4 @@
 
-# node modules (werden über package.json installiert)
 node_modules/
 
 # Lockfile für Bibliotheksprojekte ignorieren
