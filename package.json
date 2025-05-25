@@ -1,7 +1,7 @@
 {
 	"name": "reflective-backend",
 	"type": "module",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"main": "reflective-backend.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
